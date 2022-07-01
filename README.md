@@ -51,7 +51,7 @@ I think that to be a great software developer it's fundamental the reading of Cl
 
 # My projects
 
-<style type="text/css" rel="stylesheet">
+<style>
 .projects-container { display: flex; flex-direction: row; justify-content: center; align-items: center; }
 
 .projects-container a { display: flex; flex-direction: column; justify-content: left; align-items: center; }
