@@ -15,7 +15,7 @@ I think that to be a great software developer it's fundamental the reading of Cl
 
 - 💬 Ask me about **Angular, Java Spring Boot, Javascript, RxJS**
 
-- 📫 How to reach me **dennis.boanini01@gmail.com**
+- 📫 How to reach me [**dennis.boanini01@gmail.com**](mailto:dennis.boanini01@gmail.com)
 
 <br />
 
@@ -50,8 +50,14 @@ I think that to be a great software developer it's fundamental the reading of Cl
 <br />
 
 # My projects
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
-<a href="https://gpt3-phate.netlify.app/" style="display: flex; flex-direction: column; justify-content: left; align-items: center;">
+
+<style type="text/css" rel="stylesheet">
+.projects-container { display: flex; flex-direction: row; justify-content: center; align-items: center; }
+
+.projects-container a { display: flex; flex-direction: column; justify-content: left; align-items: center; }
+</style>
+<div class="projects-container">
+<a href="https://gpt3-phate.netlify.app/">
     <img src="./images/ai.png" width="200">
     <p> GPT-3 </p>
 <a>
