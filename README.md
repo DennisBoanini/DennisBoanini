@@ -43,7 +43,7 @@ I think that to be a great software developer it's fundamental the reading of Cl
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dennisboanini&show_icons=true&locale=en&layout=compact" alt="dennisboanini" />
 </div>
 
-<br />
+<br /><hr>
 
 <a href="https://app.daily.dev/phate"><img src="https://github.com/DennisBoanini/DennisBoanini/blob/master/devcard.svg" width="300" alt="Dennis A. Boanini's Dev Card"/></a>
 
