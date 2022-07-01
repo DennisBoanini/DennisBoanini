@@ -45,7 +45,7 @@ I think that to be a great software developer it's fundamental the reading of Cl
 
 <br />
 
-<a href="https://app.daily.dev/phate"><img src="https://github.com/DennisBoanini/DennisBoanini/blob/master/devcard.svg" width="400" alt="Dennis A. Boanini's Dev Card"/></a>
+<a href="https://app.daily.dev/phate"><img src="https://github.com/DennisBoanini/DennisBoanini/blob/master/devcard.svg" width="200" alt="Dennis A. Boanini's Dev Card"/></a>
 
 <br />
 
