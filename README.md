@@ -51,17 +51,7 @@ I think that to be a great software developer it's fundamental the reading of Cl
 
 # My projects
 
-<style>
-.projects-container { display: flex; flex-direction: row; justify-content: center; align-items: center; }
-
-.projects-container a { display: flex; flex-direction: column; justify-content: left; align-items: center; }
-</style>
-<div class="projects-container">
-<a href="https://gpt3-phate.netlify.app/">
-    <img src="./images/ai.png" width="200">
-    <p> GPT-3 </p>
-<a>
-</div>
+[<img src="./images/ai.png" width="200">](https://gpt3-phate.netlify.app/)
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
