@@ -9,7 +9,7 @@ I'm a passionate software developer 🧑‍💻, clean code 🧹 and trekking �
 I think that to be a great software developer it's fundamental the reading of Clean Code, The Clean Coder and Clean Architectural.
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **SolidJS**
 
 - 👯 I’m looking to collaborate on **some React or Angular project**
 
