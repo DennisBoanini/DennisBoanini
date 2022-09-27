@@ -52,7 +52,10 @@ I think that to be a great software developer it's fundamental the reading of Cl
 
 # My projects
 
-[<img src="./images/ai.png" width="200">](https://gpt3-phate.netlify.app/)
+<div>
+<a href="https://gpt3-phate.netlify.app"><img src="images/ai.png" width="200"></a>
+<a href="https://phate-hoobank.netlify.app/"><img src="images/hoobank.svg" width="200" height="200"></a>
+</div>
 
 # Frontend mentor challenges
 
