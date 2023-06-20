@@ -58,7 +58,7 @@ I think that to be a great software developer it's fundamental the reading of Cl
 <a href="https://phate-realestate.netlify.app/"><img src="images/realestate.svg" width="200" height="200"></a>
 <a href="https://phate-metaversus.netlify.app/"><img src="images/cover.png" width="200" height="200"></a>
 <a href="https://phate-promptopia.vercel.app/"><img src="images/promptopia.svg" width="200" height="200"></a>
-<a href=https://phate-car-showcase.vercel.app/"><img src="images/car_showcase.svg" width="200" height="200"></a>
+<a href="https://phate-car-showcase.vercel.app/"><img src="images/car_showcase.svg" width="200" height="200"></a>
 </div>
 
 # Frontend mentor challenges
